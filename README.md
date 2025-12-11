@@ -1,12 +1,12 @@
 <div align="center">
-    <h1>👋 Olá, eu sou [Seu Nome ou Nickname]!</h1>
+    <h1>👋 Olá, eu sou Alex!</h1>
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-* 🧠 Estudante de **Engenharia de Software** focado em desenvolvimento Backend e Web.
+* 🧠 Estudante de **Engenharia de Software** focado em desenvolvimento Fullstack
 * 🌱 Atualmente aprimorando minhas habilidades e expandindo meu conhecimento em novas tecnologias.
 * 💡 Apaixonado por transformar ideias em código e resolver problemas complexos.
 
@@ -26,6 +26,7 @@ Estou empenhado em aprender e dominar as seguintes tecnologias para desenvolvime
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js Badge"/>
 </p>
 
 ---
